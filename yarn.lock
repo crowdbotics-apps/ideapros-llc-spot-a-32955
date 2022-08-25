@@ -970,7 +970,7 @@
   dependencies:
     react-native-render-html "^5.1.0"
 
-"@modules/splash@file:./modules/splash/":
+"@modules/splash@file:./modules/splash":
   version "1.0.0"
 
 "@modules/terms-and-conditions@file:./modules/terms-and-conditions":
@@ -1196,6 +1196,9 @@
     redux "^4.1.0"
     redux-thunk "^2.3.0"
     reselect "^4.0.0"
+
+"@screens/support-send-feedback@file:./screens/support-send-feedback/":
+  version "1.0.0"
 
 "@sideway/address@^4.1.0":
   version "4.1.2"
