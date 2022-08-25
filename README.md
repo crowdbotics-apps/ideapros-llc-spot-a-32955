@@ -58,7 +58,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [terms-and-conditions]()
 - [privacy-policy]()
 - [react-native-app-menu](modules/app-menu)
-- [django-articles](backend/modules)
 - [camera]()
 - [react-native-articles](modules/articles)
 - [react-native-user-profile](modules/user-profile)
